@@ -1,3 +1,5 @@
+package main.ch1.solutions;
+
 public class DooBee {
     public static void main(String[] args) {
         int x = 1;
